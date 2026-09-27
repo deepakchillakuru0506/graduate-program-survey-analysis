@@ -103,6 +103,6 @@ international students.
 
 The respondent-level survey data and the verbatim open-ended comments are **not** published. The
 consent statement shown to participants scoped their responses to a course assignment, which does
-not extend to public release, and small programmes with identifiable demographics make
+not extend to public release, and small programs with identifiable demographics make
 re-identification a real risk even from anonymised rows. The aggregate findings above are the
 defensible output of the study.
