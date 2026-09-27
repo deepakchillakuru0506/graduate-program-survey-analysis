@@ -1,0 +1,16 @@
+metric,value,analysis
+responses,133,data collection
+survey_questions,18,instrument
+open_ended_responses,80,sentiment analysis
+share_of_graduate_enrollment,13.3%,data collection
+segments_hierarchical,3,segmentation
+segment_1_share_hierarchical,54%,segmentation
+segment_2_share_hierarchical,18%,segmentation
+segment_3_share_hierarchical,28%,segmentation
+segments_kmeans,3,segmentation
+variance_explained_by_model,70%,predictive modeling
+lift_vs_random_at_top_decile,43%,predictive modeling
+negative_share_of_valenced_responses,19.4%,sentiment analysis
+emotion_trust_share,25%,sentiment analysis
+emotion_anticipation_share,21%,sentiment analysis
+emotion_joy_share,16%,sentiment analysis
